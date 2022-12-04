@@ -45,7 +45,7 @@ As the pressure goes up, the temperature also goes up, and vice-versa. Also same
 
 <p style="text-align: center;">P1V1 / T1 = P2V2 / T2</p>
 
-Manual:
+MANUAL / HOW TO USE
 
 On the Gas Laws program, the program will ask first which gas law would the user want to use: Boyle's Law, Charles' Law, Gay-Lussac's Law, or Combined Gas Law. The program will ask to input the number only. The only numbers valid are 1 to 4. Inputting a string or a number lower than 1 or higher than 4 will result in an error, then it asks the user to input a valid digit. 
 
