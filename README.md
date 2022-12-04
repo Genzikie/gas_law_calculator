@@ -49,12 +49,12 @@ Manual:
 
 On the Gas Laws program, the program will ask first which gas law would the user want to use: Boyle's Law, Charles' Law, Gay-Lussac's Law, or Combined Gas Law. The program will ask to input the number only. The only numbers valid are 1 to 4. Inputting a string or a number lower than 1 or higher than 4 will result in an error, then it asks the user to input a valid digit. 
 
-<img src"fig1.jpg">
+<img src="fig1.jpg">
 
 After selecting which gas law the user wants to use, depending on which choice, the program will ask what unit would the user wants to find: Volume, Pressure, or Temperature. The unit may vary on which gas law is chosen. It could be Volume and Pressure only for Boyle's Law or Volume and Temperature for Charles's Law. Again, the program will ask the user to input only the number. Attempting to input a string or a larger number will result in an error, then it asks the user to input a valid digit.
 
-<img src"fig2.jpg">
+<img src="fig2.jpg">
 
 After selecting the unit that the user wants to find, the program will ask for variables needed to compute the problem. Take note that the units labeled with 1 (e.g. V1, P1, T1) are always associated with the unit that is missing. If the problem states that V2 is missing, the user should consider it as V1 when using the program. After inputting the variables needed to compute the problem, the program will display the answer rounded to two decimals. The program will know if the equation resulted in division by zero, it will require the user to try again.  If the answer is displayed successfully with no errors, the program will ask if the user wants to try again. Inputting "Y" will loop the program back to start.
 
-<img src"fig3.jpg">
+<img src="fig3.jpg">
