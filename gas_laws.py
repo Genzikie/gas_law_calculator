@@ -1,7 +1,6 @@
 #Author: ALGEN MALAZARTE JR.
 #Section: CPE - 2C
 #Date: 11/4/19
-#Description: THIS CODE IS CREATED FOR THE COMPLETION OF CAPSTONE PROJECT IN OBJECT ORIENTED PROGRAMMING
 
 #main function
 def gas_laws():
